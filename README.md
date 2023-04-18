@@ -1,2 +1,2 @@
-# educational-bank
-Web Banking Application for educational purposes.
+# educational-banking-system
+A web based banking application for educational purposes.
